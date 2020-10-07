@@ -4,4 +4,4 @@
 + 기초 CSS
 + 기초 JAVASCRIPT
 
-[링크] (github에서 만들어준 주소 저장)
+[링크] (https://hanlanh.github.io/background/)
